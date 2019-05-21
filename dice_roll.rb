@@ -6,4 +6,6 @@
 #end
 
 def roll()
-  
+  roll_options = [1, 2, 3, 4, 5, 6]
+  return roll_options(rand(0..5))
+end
