@@ -1,3 +1,3 @@
 def roll()
-  # code goes here
+  return rand(0..6)
 end
